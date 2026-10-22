@@ -18,6 +18,16 @@
     <PackageProjectUrl>https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.HashCodes</PackageProjectUrl>
   </PropertyGroup>
   <ItemGroup>
+    <InternalsVisibleTo Include="Pure.Authorization.OpenFGA.Model.HashCodes.Tests" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference
+      Include="Pure.Authorization.OpenFGA.Model.Abstractions"
+      Version="0.1.0-preview.0.1.0"
+    />
+    <PackageReference Include="Pure.HashCodes" Version="2.1.0" />
+  </ItemGroup>
+  <ItemGroup>
     <None Include="../../README.md" Pack="true" PackagePath="/" />
   </ItemGroup>
 </Project>
