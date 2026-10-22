@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Folder Name="/Tests/">
+    <Project Path="Tests/Pure.Authorization.OpenFGA.Model.HashCodes.Tests/Pure.Authorization.OpenFGA.Model.HashCodes.Tests.csproj" />
+  </Folder>
+  <Project Path="Pure.Authorization.OpenFGA.Model.HashCodes/Pure.Authorization.OpenFGA.Model.HashCodes.csproj" />
+</Solution>
