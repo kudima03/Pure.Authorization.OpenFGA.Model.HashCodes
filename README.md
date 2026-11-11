@@ -101,6 +101,7 @@ The canonical form is produced with `JsonDocument` and `Utf8JsonWriter` only, so
 - .NET 8
 - .NET 9
 - .NET 10
+- .NET 11
 
 ## Installation
 
