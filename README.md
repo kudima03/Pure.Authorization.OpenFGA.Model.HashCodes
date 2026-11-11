@@ -92,7 +92,7 @@ The canonical form is produced with `JsonDocument` and `Utf8JsonWriter` only, so
 
 ## Dependencies
 
-- [`Pure.Authorization.OpenFGA.Model.Abstractions`](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions/tree/0.1.0-preview.0.1.0) — OpenFGA authorization model interfaces
+- [`Pure.Authorization.OpenFGA.Model.Abstractions`](https://github.com/kudima03/Pure.Authorization.OpenFGA.Model.Abstractions/tree/0.1.0-preview.0.2.0) — OpenFGA authorization model interfaces
 - [`Pure.HashCodes`](https://github.com/kudima03/Pure.HashCodes/tree/2.1.0) — deterministic, byte-enumerable hash computation over Pure primitives
 
 ## Target Frameworks
